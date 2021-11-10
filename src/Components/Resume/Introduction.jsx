@@ -264,10 +264,10 @@ export default function Introduction() {
                                         TechoWorx -
                                     </AnchorLinks>
                                 </CompanyTitle>
-                                <ProfileTitle> MERN Stack Intern </ProfileTitle>
+                                <ProfileTitle> Full Stack Intern </ProfileTitle>
                             </WorkDetails>
                             <ProfileDetails>
-                                This is where I started my journey as MERN stack developer. I started with ReactJS UI developer
+                                This is where I started my journey as Full stack developer. I started with ReactJS UI developer
                                 It was an amazing kickstart as I got to see my work visually and loved working on JSX with JavaScript<br />
                                 <div style={{ display: "flex" }}>
                                     <div>
