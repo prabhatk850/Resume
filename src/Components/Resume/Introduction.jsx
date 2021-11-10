@@ -214,7 +214,7 @@ export default function Introduction() {
                         onInit={(typewriter) => {
                             typewriter.changeDelay("40") 
                             .typeString(`
-                    My name is Prabhat Kumar Verma, I am having 4 months of Internship as Full Stack Developer.
+                    My name is Prabhat Kumar Verma, I am having 4 months of Internship as MERN Stack Developer.
                     I started my programming journey with C, where I got to learn the fundamentals.
                     Currently I am working as a MERN Stack Developer. I like developing front-end,
                     as I love when I can visually express my work.
