@@ -214,7 +214,7 @@ export default function Introduction() {
                         onInit={(typewriter) => {
                             typewriter.changeDelay("40") 
                             .typeString(`
-                    My name is Prabhat Kumar Verma, I am having 4 months of Internship as Full Stack Developer.
+                    My name is Prabhat Kumar Verma, I am having 4 months of Internship as MERN Stack Developer.
                     I started my programming journey with C, where I got to learn the fundamentals.
                     Currently I am working as a MERN Stack Developer. I like developing front-end,
                     as I love when I can visually express my work.
@@ -264,10 +264,10 @@ export default function Introduction() {
                                         TechoWorx -
                                     </AnchorLinks>
                                 </CompanyTitle>
-                                <ProfileTitle> Full Stack Intern </ProfileTitle>
+                                <ProfileTitle> MERN Stack Intern </ProfileTitle>
                             </WorkDetails>
                             <ProfileDetails>
-                                This is where I started my journey as Full stack developer. I started with ReactJS UI developer
+                                This is where I started my journey as MERN stack developer. I started with ReactJS UI developer
                                 It was an amazing kickstart as I got to see my work visually and loved working on JSX with JavaScript<br />
                                 <div style={{ display: "flex" }}>
                                     <div>
